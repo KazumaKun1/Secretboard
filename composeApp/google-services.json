@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465008209881",
+    "project_id": "secretboard-b265a",
+    "storage_bucket": "secretboard-b265a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465008209881:android:4a913d3547c4272edcf3c8",
+        "android_client_info": {
+          "package_name": "com.arviejhay.secretboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVac640kK9P04rcgKrCyDJbpxK9wsulm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
