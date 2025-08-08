@@ -45,6 +45,10 @@ fun AddPostDialog(
                 Button(onClick = {
                     onSubmit(name.takeIf { it.isNotBlank() }, title.takeIf { it.isNotBlank() }, message)
                     onDismiss()
+
+                    name = ""
+                    title = ""
+                    message = ""
                 }) {
                     Text("Submit")
                 }
